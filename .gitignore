@@ -95,3 +95,7 @@ ENV/
 
 # mkdocs documentation
 /site
+
+# Other (Felipe)
+images
+.DS_Store
