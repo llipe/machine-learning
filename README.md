@@ -1,5 +1,7 @@
-# Machine Learning with Python
+# Machine Learning con Python
 
-Machine learning training and blogging examples for llipe.com
+Ejemplos y pruebas de algorítmos de machine learning implementados por Felipe Mallea para www.llipe.com.
 
-## Current list of implemented algorithms
+## Implementaciones disponibles
+
+* Perceptron (Clasificador) - [post] [[ipynb](https://github.com/llipe/machine-learning/blob/master/classifiers/Perceptron.ipynb)]
